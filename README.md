@@ -134,8 +134,8 @@
 ```
 ## 七、运行截图
 #### 教师登录界面
-![](https://github.com/Minomeis/Java-Experiment02/blob/master/img/001.jpg)
-#### 学生登录界面
+![](https://github.com/123456-lyp/-2/blob/main/6c322329a843419ae0031718d5b89c7.png）
+####学生登录界面
 ![](https://github.com/123456-lyp/-2/blob/main/04bfe6efaba2d40d53fec7dc9988ee7.png）
 ！[] (https://github.com/Minomeis/Java-Experiment02/blob/master/img/003.jpg)
 ## 八、感想体悟
