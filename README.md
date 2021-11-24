@@ -136,7 +136,7 @@
 #### 教师登录界面
 ![](https://github.com/123456-lyp/-2/blob/main/6c322329a843419ae0031718d5b89c7.png）
 ####学生登录界面
-![](https://github.com/123456-lyp/-2/blob/main/04bfe6efaba2d40d53fec7dc9988ee7.png）
-！[] (https://github.com/Minomeis/Java-Experiment02/blob/master/img/003.jpg)
+![](https://github.com/123456-lyp/-2/blob/main/a8d590e02d96b40f83fa3994b1d5b10.png）
+！[] ( https://github.com/Minomeis/Java-Experiment02/blob/master/img/003.jpg )
 ## 八、感想体悟
 总的来讲，本次实验收获颇丰，希望以后能将java学的更加通透，感受更多编程的乐趣！
